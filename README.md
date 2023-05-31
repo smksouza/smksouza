@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Samuel Souza 👋
 
-<!--
-**smksouza/smksouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About
+I'm a Web Develope. And, I'm studying JavaScript/TypeScript | React/React Native | NodeJs | Java | Spring now!
 
-Here are some ideas to get you started:
+#### 🗃️ Current stack
+- 🖼️ Frontend: `React`, `HTML5`, `CSS3`, `JavaScript`
+- 🛠️ Backend: `NodeJs`
+- 📦 Version code control:  `Git & Github`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Contacts
+- Email: smksouza.dev@gmail.com
+- Linkedin: https://www.linkedin.com/in/devsamuelsouza/
